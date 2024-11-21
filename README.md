@@ -4,6 +4,7 @@ I'm Tanvi Makhe, a Computer Engineer and aspiring Human-Computer Interaction (HC
 
 🌟 About Me
 🖌️ Creative Background: Experienced in art and design with recognition in city-wide competitions.
+
 🧪 Research Enthusiast: Conducted IoT research and explored HCI principles in design.
 🌎 Community Leader: Held leadership roles in clubs, including Designing Head and Associate Director of Professional Development.
 
