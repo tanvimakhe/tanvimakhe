@@ -2,9 +2,6 @@
 Welcome to My GitHub!
 I'm Tanvi Makhe, a Computer Engineer and aspiring Human-Computer Interaction (HCI) specialist. With a unique blend of creativity and technology, I aim to craft intuitive and user-focused solutions.
 
-🌟 About Me
-
-I am a creative professional with experience in design, IoT research, and developing tech projects. I've also held leadership roles, including Designing Head and Associate Director, driving collaboration and innovation.
 
 🛠️ What I Do
 
