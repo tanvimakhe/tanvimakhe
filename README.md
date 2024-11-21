@@ -16,7 +16,6 @@ Web Development: Exploring front-end web technologies and translating ideas into
 I'm dedicated to enhancing user experiences through thoughtful design and technology integration. My goal is to make everyday interactions seamless and engaging.
 
 
-
 <!--
 **tanvimakhe/tanvimakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
